@@ -1,4 +1,4 @@
-FROM python:3.12
+FROM python
 
 # set a directory for the app
 WORKDIR /app
